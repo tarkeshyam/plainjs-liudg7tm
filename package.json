@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/tarkeshyam.plainjs-liudg7tm",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve wcO6m9konkbosCoT4IYQ --open"
+  }
+}
